@@ -1,0 +1,8 @@
+type,amount,category,description
+Income,5000,Salary,Monthly salary
+Income,200,Freelance,Freelance project payment
+Income,150,Gift,Birthday gift from family
+Expense,1000,Rent,Monthly apartment rent
+Expense,300,Groceries,Weekly grocery shopping
+Expense,50,Transportation,Bus fare
+Expense,200,Entertainment,Concert tickets
